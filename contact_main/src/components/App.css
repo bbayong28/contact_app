@@ -29,6 +29,7 @@ h2{
 }
 
 .items{
+  position: relative;
   display: flex !important; 
   justify-content: space-between;
   align-items: center;
