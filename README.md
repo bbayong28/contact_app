@@ -17,4 +17,4 @@
 ### 주의할점
 
 server-api 터미널을 npm start 하고 localhost:3006창을 띄워 놓은 후,
-contact_main 터미널을 띄워 npm start 해야함.(localhost:3006번을 json-server가 쓰기 때문에 각각의 터미널에 같이 띄워야 함.)
+contact_main 터미널을 띄워 npm start 해야함.(localhost:3006을 json-server가 쓰기 때문에 각각의 터미널에 같이 띄워야 함.)
